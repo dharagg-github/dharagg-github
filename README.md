@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dharagg-github
-- 👀 I’m interested in Many Techs
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on Dapps,Web Apps,
 - 📫 How to reach me dhara8877@gmail.com
 
 <!---
